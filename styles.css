@@ -85,3 +85,8 @@ input{
     color: var(--White);
     font-weight: 700;
 }
+
+#btn:hover{
+    background-color: var(--Red);
+    border-color: var(--Red);
+}
